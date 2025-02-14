@@ -1,0 +1,8 @@
+{
+    "require": {
+        "league/oauth2-google": "^4.0",
+        "hayageek/oauth2-yahoo": "^2.0",
+        "thenetworg/oauth2-azure": "^2.2",
+        "stevenmaguire/oauth2-microsoft": "^2.2"
+    }
+}
